@@ -5,6 +5,7 @@ body {
   font-size: 50px;
   font-weight: bold;
   background-size: cover;
+  background: no-repeat center center fixed
 }
 
 .countdown {
@@ -14,4 +15,5 @@ body {
   background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  text-shadow: 2px 0px 1px;
 }
