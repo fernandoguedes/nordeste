@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  justify-content: center;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+  background-size: cover;
+}
+
+.countdown {
+  display: flex;
+  align-items: center;
+  margin-top: 20%;
+  background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
